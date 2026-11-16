@@ -412,7 +412,7 @@ function runMatch() {
   setView("match");
 }
 
-const WAITLIST_ENDPOINT = "https://formsubmit.co/ajax/vuolo+payoutmatch@mail.grokbot.com";
+const WAITLIST_ENDPOINT = "https://formsubmit.co/ajax/e39114845f8536501e96290f02971513";
 const WAITLIST_INBOX = "vuolo+payoutmatch@mail.grokbot.com";
 
 function initWaitlist() {
